@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e862c7d7-a8e9-4dba-8a25-e8999c5d0f51" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\24297\.m2\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="14" />
+  </component>
+  <component name="ProjectId" id="1yhc9ZeSiNkTwSG3Ezc4kWI4ljt" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql/src/main/resources/META-INF.services" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3632184" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\24297\git\SPI-demo\mysql\src\main\resources\META-INF.services" />
+      <recent name="C:\Users\24297\git\SPI-demo\redis\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\24297\git\SPI-demo\mysql\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <module name="app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e862c7d7-a8e9-4dba-8a25-e8999c5d0f51" name="Default Changelist" comment="" />
+      <created>1632707109219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632707109219</updated>
+      <workItem from="1632707113876" duration="2813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1632708439942">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1632708439942" />
+    <state x="765" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1632707705579">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1632707705579" />
+    <state x="632" y="314" key="#xdebugger.evaluate" timestamp="1632709595946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="632" y="314" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1632709595946" />
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom" timestamp="1632709544513">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1632709544513" />
+    <state width="1877" height="207" key="GridCell.Tab.0.center" timestamp="1632709544512">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1632709544512" />
+    <state width="1877" height="207" key="GridCell.Tab.0.left" timestamp="1632709544512">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1632709544512" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right" timestamp="1632709544512">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1632709544512" />
+    <state width="1877" height="207" key="GridCell.Tab.1.bottom" timestamp="1632709544617">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1632709544617" />
+    <state width="1877" height="207" key="GridCell.Tab.1.center" timestamp="1632709544617">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1632709544617" />
+    <state width="1877" height="207" key="GridCell.Tab.1.left" timestamp="1632709544617">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1632709544617" />
+    <state width="1877" height="207" key="GridCell.Tab.1.right" timestamp="1632709544617">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1632709544617" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1632709258179">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1632709258179" />
+    <state x="395" y="115" key="new project wizard" timestamp="1632707354095">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="395" y="115" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1632707354095" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.jdks/adopt-openjdk-1.8.0_292/src.zip!/java/util/ServiceLoader.java</url>
+          <line>537</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
